@@ -21,3 +21,10 @@ strong {
   font-weight: bold;
   color: #333;
 }
+
+img {
+  display: block;
+  margin: auto;
+  height: 200px;  /* specify the height of the image here */
+  line-height: 200px;  /* set the line-height to the same value as the height */
+}
