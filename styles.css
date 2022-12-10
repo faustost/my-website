@@ -37,3 +37,8 @@ img {
   height: 50px;  /* specify the height of the <p> element */
   line-height: 50px;  /* set the line-height to the same value as the height */
 }
+
+iframe {
+  margin: 0 auto;  /* center the iframe within its container */
+  display: block;  /* use a block-level box for the iframe */
+}
