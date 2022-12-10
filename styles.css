@@ -28,3 +28,12 @@ img {
   height: 200px;  /* specify the height of the image here */
   line-height: 200px;  /* set the line-height to the same value as the height */
 }
+
+.cta {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #555;
+  text-align: center;  /* center the text within the <p> element */
+  height: 50px;  /* specify the height of the <p> element */
+  line-height: 50px;  /* set the line-height to the same value as the height */
+}
